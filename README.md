@@ -1,3 +1,3 @@
 # Banking-System
 
-Full Stack Website Developed using SpringBoot, Hybernate, Java, MySQL, HTML, CSS, JavaScript.
+Full Stack Website Developed using SpringBoot, Hibernate, Java, MySQL, HTML, CSS, JavaScript.
